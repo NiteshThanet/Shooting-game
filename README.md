@@ -59,7 +59,9 @@ cd space-shooter
 
 ###  📸 Screenshots
 
-![img](/docs/screenshot.png)
+![Gameplay Screenshot](docs/screenshot.png)
+
+
 
 ###  🛠️ Technologies Used
 
