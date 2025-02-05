@@ -2,8 +2,6 @@
 
 A fun **2D space shooter** built using **Python & Pygame** where you control a spaceship, shoot enemies, and score points.
 
-![Gameplay Screenshot](screenshot.png)  <!-- Add a real screenshot -->
-
 ---
 
 ## 🎮 Features
@@ -32,9 +30,9 @@ Download and install Python from [python.org](https://www.python.org/downloads/)
 
 Run the following command:
 
-'''sh
+```sh
 pip install pygame
-'''
+```
 ### 3️⃣ Clone This Repository
 
 git clone https://github.com/YOUR_GITHUB_USERNAME/space-shooter.git
@@ -43,9 +41,10 @@ cd space-shooter
 🎮 How to Play
 1️⃣ Run the game:
 
-  '''sh
+  ```sh
   python main.py
-  '''
+  ```
+
 2️⃣ Use ← Left / → Right Arrow Keys to move your spaceship.
 
 3️⃣ Press ↑ Up Arrow Key to shoot bullets.
@@ -60,9 +59,13 @@ cd space-shooter
 
 ### 🛠️ Technologies Used
 🔹Python
+
 🔹Pygame
+
 🔹Random Module (for enemy behavior)
 
+
 ###🤝 Contributing
+
 Want to improve the game? Feel free to fork the repo and submit a pull request! 🎯
 
