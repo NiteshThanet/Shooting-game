@@ -35,10 +35,13 @@ pip install pygame
 ```
 ### 3️⃣ Clone This Repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/space-shooter.git
+```sh
+git clone https://github.com/NiteshThanet/space-shooter.git
 cd space-shooter
+```
 
 🎮 How to Play
+
 1️⃣ Run the game:
 
   ```sh
@@ -54,10 +57,12 @@ cd space-shooter
 5️⃣ If you lose all lives, press SPACEBAR to restart.
 
 
-### 📸 Screenshots
+###  📸 Screenshots
+
 ![img](./docs/screenshot.png)
 
-### 🛠️ Technologies Used
+###  🛠️ Technologies Used
+
 🔹Python
 
 🔹Pygame
@@ -65,7 +70,7 @@ cd space-shooter
 🔹Random Module (for enemy behavior)
 
 
-###🤝 Contributing
+### 🤝 Contributing
 
 Want to improve the game? Feel free to fork the repo and submit a pull request! 🎯
 
