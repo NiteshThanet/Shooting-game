@@ -59,7 +59,7 @@ cd space-shooter
 
 ###  📸 Screenshots
 
-![img](./docs/screenshot.png)
+![img](/docs/screenshot.png)
 
 ###  🛠️ Technologies Used
 
